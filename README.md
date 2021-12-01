@@ -1,6 +1,9 @@
 # M2_Embedded_Heating-System
 Embedded C mini Project
 
+![code score](https://api.codiga.io/project/30217/score/svg)
+![code grade](https://api.codiga.io/project/30217/status/svg)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/f9589c7d6c9c4913be38e68d3cdf10e3)](https://www.codacy.com/gh/akshhh51/M2-Embedded_Seat_Heating_System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=akshhh51/M2-Embedded_Seat_Heating_System&amp;utm_campaign=Badge_Grade)
 
 
 
